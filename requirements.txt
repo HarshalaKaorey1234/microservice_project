@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+torchvision
+torchtext
+spacy
+sklearn
+
+
